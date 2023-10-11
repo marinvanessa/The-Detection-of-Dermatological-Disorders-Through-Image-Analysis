@@ -1,5 +1,10 @@
 # The-Detection-of-Dermatological-Disorders-Through-Image-Analysis
 
+Structure
+-
+
+1. Code structure
+
 SkinDetector
 ------------------------|     
  │   ├── dataset.py      |           
