@@ -42,6 +42,10 @@ Melanoma | mel |
 Melanocytic nevi | nv | 
 Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
 
+The dataset was initially unbalanced, and to address this, I resampled it to create a more equitable distribution of samples across various classes. This procedure ensures that my model receives an equal representation of each class during training, preventing biases. 
+During preprocessing, the data is resized to a consistent dimension, normalized to a range of [0, 1], and labels are one-hot encoded for machine learning compatibility. This critical preprocessing step optimizes the data for machine learning tasks, ensuring that it's prepared to meet the requirements of the model. For the test dataset, I strategically selected the first 700 images from a shuffled version of the dataset.
+
+
 **Methodology**
 -
 
