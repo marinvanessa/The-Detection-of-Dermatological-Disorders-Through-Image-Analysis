@@ -1,0 +1,3 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,dataset
+HAM_0000550,ISIC_0024306,nv,follow_up,45.0,male,trunk,vidir_molemax
+HAM_0003577,ISIC_0024307,nv,follow_up,50.0,male,lower extremity,vidir_molemax
