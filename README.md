@@ -1,6 +1,6 @@
 # The-Detection-of-Dermatological-Disorders-Through-Image-Analysis
 
-<font size="2">Name: Vanessa-Ramona Marin</font>
+<font size="22">Name: Vanessa-Ramona Marin</font>
 
 This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
 
