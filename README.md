@@ -43,6 +43,9 @@ Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage) 
 
  I developed a new model for dermatological disorder detection using transfer learning with a ResNet50V2 model. I froze the starting layers and added more layers to create a finely-tuned, accurate solution.
 
+ ![Arhitecture of the model](https://github.com/marinvanessa/The-Detection-of-Dermatological-Disorders-Through-Image-Analysis/assets/127364101/4e69c42b-e4f6-45ef-b65b-dae832c40e8d)
+
+
  
 **Results**
 -
