@@ -21,7 +21,7 @@ SkinDetector
  
  └── README.md     
 
- * **skin-detector** folder contains the frontend part of the project.
+ * **skin-detector** -> folder contains the frontend part of the project. The final user interface of the project is presented at the end of this README.md file.
 
 
 **Dataset**
