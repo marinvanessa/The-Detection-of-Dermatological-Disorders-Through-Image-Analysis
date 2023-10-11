@@ -1,6 +1,6 @@
 # The-Detection-of-Dermatological-Disorders-Through-Image-Analysis
 
-The primary goal of this project is to establish a robust system capable of automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
+This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
 
 Structure
 -
