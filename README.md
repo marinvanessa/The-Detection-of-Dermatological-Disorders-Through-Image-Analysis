@@ -33,10 +33,10 @@ Dermatological disorders | Label |
 Actinic keratoses and intraepithelial carcinoma / Bowen's disease | akiec | 
 Basal cell carcinoma | bcc |
 Benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses) | bkl | 
-dermatofibroma | df | 
-melanoma | mel | 
-melanocytic nevi | nv | 
-vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
+Dermatofibroma | df | 
+Melanoma | mel | 
+Melanocytic nevi | nv | 
+Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
 
 **Methodology**
 -
