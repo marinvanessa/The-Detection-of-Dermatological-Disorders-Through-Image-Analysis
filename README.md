@@ -27,11 +27,13 @@ SkinDetector
 The dataset used for this project contains 7 dermatological disorders. 
 
 
-Dermatological disorders
-------------------------|-----------|     
-    Actinic keratoses and intraepithelial carcinoma / Bowen's disease   |  akiec   |     
-     Basal cell carcinoma    |      bcc     |     
-    benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses) |  bkl |
-   dermatofibroma           |       df  |
-    melanoma           |   mel   |
+Dermatological disorders | Label | 
+------------ | ------------- | 
+Actinic keratoses and intraepithelial carcinoma / Bowen's disease | akiec | 
+Basal cell carcinoma | bcc |
+Benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses) | bkl | 
+dermatofibroma | df | 
+melanoma | mel | 
+melanocytic nevi | nv | 
+vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
 
