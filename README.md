@@ -13,4 +13,6 @@ SkinDetector
  │   ├── train.py          |       
  │   ├── skin-detector          |      
  
- └── README.md         
+ └── README.md     
+
+ * skin-detector folder contains the frontend part of the project.
