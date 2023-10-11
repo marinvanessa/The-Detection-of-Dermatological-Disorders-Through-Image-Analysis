@@ -4,7 +4,7 @@
 **Institution:** University POLITEHNICA of Bucharest, Faculty of Automatic Control and Computer Science  
 **Generation:** 2019-2023  
 
-This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
+This repository contains all the code and data related to my BSc Thesis. Its primary goal is to develop a reliable system that can automatically identify and categorize dermatological disorders based on visual characteristics present in images.
 
 **Structure**
 -
