@@ -37,3 +37,6 @@ melanoma | mel |
 melanocytic nevi | nv | 
 vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
 
+
+I developed a new model for dermatological disorder detection using transfer learning with a ResNet50V2 model. I froze the starting layers and added more layers to create a finely-tuned, accurate solution.
+
