@@ -1,6 +1,6 @@
 # The-Detection-of-Dermatological-Disorders-Through-Image-Analysis
 
-This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
+This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images. I developed a new model for dermatological disorder detection using transfer learning with a ResNet50V2 model. I froze the starting layers and added more layers to create a finely-tuned, accurate solution.
 
 **Structure**
 -
@@ -21,6 +21,7 @@ SkinDetector
 
 
 **Dataset**
+-
 
 [Get Dataset] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
@@ -38,5 +39,5 @@ melanocytic nevi | nv |
 vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage)  | vasc | 
 
 
-I developed a new model for dermatological disorder detection using transfer learning with a ResNet50V2 model. I froze the starting layers and added more layers to create a finely-tuned, accurate solution.
+
 
