@@ -2,7 +2,7 @@
 
 This is my thesis project, and it aims to develop a robust system for automatically recognizing and categorizing dermatological disorders based on visual characteristics captured in images.
 
-Structure
+**Structure**
 -
 
 1. Code structure
@@ -18,3 +18,11 @@ SkinDetector
  └── README.md     
 
  * **skin-detector** folder contains the frontend part of the project.
+
+
+**Dataset**
+
+[GitHub] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+
+The dataset used for this project contains 7 dermatological disorders. 
+
