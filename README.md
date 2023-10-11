@@ -46,7 +46,7 @@ I developed a new model for dermatological disorder detection using transfer lea
 
  ![Architecture of the model](https://github.com/marinvanessa/The-Detection-of-Dermatological-Disorders-Through-Image-Analysis/assets/127364101/873c8caf-679b-4a17-8321-e9e37b52342b)
 
-In the training loop, the code iterates through the training dataset, updating the model's weights using the RMSprop optimizer, while monitoring binary cross-entropy loss and accuracy. Additionally, every 100 training steps, the model's performance is evaluated on a validation dataset, computing and logging validation loss and accuracy.
+In the training loop, the code iterates through the training dataset, utilizing the Gelu activation function to introduce non-linearity to specific convolutional and dense layers. This enhances the model's ability to capture intricate patterns and features in the image data during both training and evaluation. The model's weights are updated using the RMSprop optimizer, and it keeps track of binary cross-entropy loss and accuracy. Additionally, every 100 training steps, the model's performance is assessed on a validation dataset, where validation loss and accuracy are computed and logged.
 
 **Results**
 -
