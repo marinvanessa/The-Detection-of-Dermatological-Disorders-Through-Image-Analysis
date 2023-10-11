@@ -24,7 +24,7 @@ SkinDetector
 
 [Get Dataset] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
-The dataset used for this project contains 7 dermatological disorders. 
+The dataset used for this project contains 7 dermatological disorders:
 
 
 Dermatological disorders | Label | 
