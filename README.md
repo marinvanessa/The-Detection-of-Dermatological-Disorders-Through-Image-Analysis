@@ -63,3 +63,6 @@ Learning Rate | Batch Size | Loss| Accuracy
 
 
 
+
+
+
