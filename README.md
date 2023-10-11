@@ -59,6 +59,12 @@ Learning Rate | Batch Size | Loss| Accuracy
 0.001 | 64 | 1.1538 | 92.48%
 
 
+**User Interface**
+-
+![User Interface](https://github.com/marinvanessa/The-Detection-of-Dermatological-Disorders-Through-Image-Analysis/assets/127364101/53614dd1-8c87-4e35-a3eb-b1c2b3834628)
+
+
+
 
 
 
